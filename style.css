@@ -59,7 +59,7 @@ body{
 }
 .item5{
   background-color:red ;
-  grid-column-start: ;
+  /* grid-column-start: ; */
 }
 .item6{
     background-color:rgba(0, 255, 255, 0.61) ;
