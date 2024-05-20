@@ -8,7 +8,7 @@ body{
 .container{
     display: grid;
     position: relative;
-    left: 200px;
+    left: 230px;
     top: 180px;
     grid-template-rows: 120px 120px 120px;
     grid-template-columns: 200px 200px ;
@@ -47,7 +47,7 @@ body{
   
     display: grid;
     position: absolute;
-    right: 350px;
+    right: 330px;
     top: 180px;
     grid-template-rows: 64px 70px 82px;
     grid-template-columns: auto auto ;
@@ -85,11 +85,12 @@ body{
 }
 .heading{
    
-    margin-top: 100px;
-    margin-left: 400px;
+  margin-top: 230px;
+  margin-left: 500px;
+   
 }
 .h1{
-   font-size: 90px;
+  font-size: 80px;
    font-family: Arial, Helvetica, sans-serif;
    color: white;
 }
